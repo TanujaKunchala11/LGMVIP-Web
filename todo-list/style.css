@@ -4,14 +4,14 @@
     box-sizing: border-box;
   }
   body {
-    background-image: linear-gradient(120deg, #858582fb 0%, #0c0b0b 100%);
-    color: white;
+    background-image: linear-gradient(120deg, white 0%, pink 100%);
+    color: black;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
   }
   header {
     font-size: 2rem;
-    color:#ff6f47;
+    color: black;
     font-style: sans-serif;
   }
   
@@ -27,7 +27,7 @@
     padding: 0.5rem;
     font-size: 2rem;
     border: none;
-    background: white;
+    background: blueviolet;
   }
   form button {
     color: #ff6f47;
@@ -36,8 +36,8 @@
     transition: all 0.3s ease;
   }
   form button:hover {
-    background: #ff6f47;
-    color: white;
+    background: greenyellow;
+    color: red ;
   }
   .todo-container {
     display: flex;
@@ -70,7 +70,7 @@
   .trash-btn,
   .complete-btn {
     background: #ff6f47;
-    color: white;
+    color: red;
     border: none;
     padding: 1rem;
     cursor: pointer;
