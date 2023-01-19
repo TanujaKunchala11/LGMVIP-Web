@@ -14,15 +14,15 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 10%;
-    background-color: black;
+    background-color: darkred;
   }
   
-  .logo-text a,
+  .logo-text h2,
   .cta {
     font-family: "Montserrat", sans-serif;
     font-size: 1.5em;
     font-weight: 500;
-    color: white;
+    color: black;
     text-decoration: none;
   }
   
@@ -37,7 +37,7 @@
   }
   
   .cta:hover {
-    background-color: purple;
+    background-color: green;
   }
   
   .cards {
@@ -48,7 +48,7 @@
     font-family: "Candara", sans-serif;
     width: 340px;
     overflow: hidden;
-    background: darkred;
+    background: yellow;
     box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.8);
     display: inline-block;
     flex-direction: column;
@@ -79,7 +79,7 @@
   }
   
   .profile-image img:hover {
-    transform: scale(1.4);
+    transform: scale(1.5);
   }
   
   .card-content h3,
