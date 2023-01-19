@@ -14,7 +14,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 10%;
-    background-color: #188fdf;
+    background-color: black;
   }
   
   .logo-text a,
@@ -37,7 +37,7 @@
   }
   
   .cta:hover {
-    background-color: rgb(255, 0, 149);
+    background-color: purple;
   }
   
   .cards {
@@ -48,7 +48,7 @@
     font-family: "Candara", sans-serif;
     width: 340px;
     overflow: hidden;
-    background: rgba(9, 215, 230, 0.993);
+    background: darkred;
     box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.8);
     display: inline-block;
     flex-direction: column;
@@ -79,7 +79,7 @@
   }
   
   .profile-image img:hover {
-    transform: scale(1.1);
+    transform: scale(1.4);
   }
   
   .card-content h3,
