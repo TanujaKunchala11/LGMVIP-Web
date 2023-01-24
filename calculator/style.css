@@ -13,7 +13,7 @@ a {
     color: black;
 }
 body {
-    background-image: linear-gradient(to bottom right, rgb(44, 112, 196), rgba(24, 97, 136, 0.126));
+    background-image: linear-gradient(120deg, rgb(204, 204, 131) 0%, rgba(220, 223, 170, 0.986) 100%);
 }
 .container {
     height: 100vh;
